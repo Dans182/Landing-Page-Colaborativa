@@ -7,6 +7,22 @@ Toda la elaboración de la página debía ser con Bootstrap5 y la misma debía s
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Making a website as a team (Git collaboration)
 
 Practice your skills in GIT while developing a typical website.
